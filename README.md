@@ -20,6 +20,7 @@ config:
             lineColor: '#ffa'
 ---
 treeView-beta
+    "llm_tests"
     "music"
       "lyrics"
       "descriptions"
