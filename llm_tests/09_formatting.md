@@ -1,0 +1,1 @@
+Gebe mir die Zusammenfassung als Markdown zum Kopieren aus.

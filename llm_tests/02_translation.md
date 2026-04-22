@@ -1,0 +1,1 @@
+Translate "Herr und Frau Lücke gingen über eine Brücke. Da kam eine Mücke und stach Frau Lücke ins Genicke. Da nahm Herr Lücke seine Krücke und schlug Frau Lücke ins Genicke. Und deshalb fiel Frau Lücke mit der Mücke und der Krücke im Genicke tot um." in Englisch.

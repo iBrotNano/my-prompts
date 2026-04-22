@@ -1,0 +1,1 @@
+Kann die Antwort auf alles genutzt werden um mit der Logistischen Regression Vorhersagen zu machen?

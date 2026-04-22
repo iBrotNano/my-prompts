@@ -1,0 +1,1 @@
+Warum ist 42 die Antwort auf alles? Denke gründlich nach. Erstelle drei verschiedene Theorien und bewerte sie nach ihrer Logik. Wähle die logischste aus und gebe sie mir zurück.

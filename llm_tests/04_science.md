@@ -1,0 +1,1 @@
+Was bedeutet Regularisierung durch die Konstante C in der Logistischen Regression?

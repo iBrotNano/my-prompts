@@ -1,0 +1,1 @@
+Schreib mir ein Programm, dass mir Daten mit mathplotlib plottet. Generiere die Daten selbst.
