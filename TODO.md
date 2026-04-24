@@ -1,0 +1,2 @@
+- Make a prompt template from the description.
+- Python script to create a song prompt from the template. In a dialog the user is asked to fill in the variables. The output is a markdown formatted song prompt that can be used to generate lyrics with the song-lyrics-prompt.md template.
